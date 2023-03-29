@@ -1,1 +1,1 @@
-export * from "https://x.curtis.land/test-helpers/mod.ts";
+export * from "https://git.quack.id/test-helpers/mod.ts";
