@@ -1,4 +1,4 @@
-import { hasFunction, hasOwnProperty, hasStringProperties, hasStringProperty } from "../src/object.ts";
+import { hasFunction, hasOwnProperty, hasStringProperties, hasStringProperty } from "../object.ts";
 import { assert, assertEquals } from "./deps.ts";
 
 Deno.test("object", async (t) => {

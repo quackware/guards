@@ -1,4 +1,4 @@
-import { isIncluded, isNonEmpty } from "../src/array.ts";
+import { isIncluded, isNonEmpty } from "../array.ts";
 import { assertEquals } from "./deps.ts";
 
 Deno.test("array", async (t) => {

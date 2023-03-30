@@ -1,4 +1,4 @@
-import { isFalsey, isTruthy } from "../src/string.ts";
+import { isFalsey, isTruthy } from "../string.ts";
 import { assertEquals } from "./deps.ts";
 
 Deno.test("string", async (t) => {
