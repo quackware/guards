@@ -1,3 +1,3 @@
-export * from "./src/array.ts";
-export * from "./src/object.ts";
-export * from "./src/string.ts";
+export * from "./array.ts";
+export * from "./object.ts";
+export * from "./string.ts";
